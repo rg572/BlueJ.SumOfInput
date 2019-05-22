@@ -24,7 +24,7 @@ public class Main {
             sum += i;
         }
         System.out.printf("The sum of the numbers 1 to %d is %d\n", target, sum);
-        
+         
         
         
     }
